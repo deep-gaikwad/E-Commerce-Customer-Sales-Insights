@@ -115,7 +115,7 @@ The SQL analysis includes:
 * Top Products by Revenue
 * Top Countries Analysis
 
-!\[Executive Overview](Images/pbi%20executive%20overview.png)
+![Executive Overview](./Images/pbi%20executive%20overview.png)
 
 \---
 
@@ -126,7 +126,7 @@ The SQL analysis includes:
 * VIP Customer Analysis
 * Customer Behavior Insights
 
-!\[Customer Segmentation](Images/pbi%20customer%20segmentation.png)
+![Customer Segmentation](./Images/pbi%20customer%20segmentation.png)
 
 \---
 
@@ -137,7 +137,7 @@ The SQL analysis includes:
 * Global Revenue Distribution
 * Country Filters
 
-!\[Product Market Insights](Images/pbi%20product%20market%20insights.png)
+![Product Market Insights](./Images/pbi%20product%20market%20insights.png)
 
 
 
@@ -149,19 +149,19 @@ The SQL analysis includes:
 
 ## Monthly Revenue Trend
 
-!\[Monthly Revenue Trend](Images/python%20monthly%20revenue%20trend.png)
+![Monthly Revenue Trend](./Images/python%20monthly%20revenue%20trend.png)
 
 \---
 
 ## Top Products by Revenue
 
-!\[Top Products Revenue](Images/python%20top%20products%20revenue.png)
+![Top Products Revenue](./Images/python%20top%20products%20revenue.png)
 
 \---
 
 ## Customer Segmentation
 
-!\[Customer Segmentation Python](Images/python%20customer%20segmentation.png)
+![Customer Segmentation Python](./Images/python%20customer%20segmentation.png)
 
 \---
 
