@@ -240,5 +240,19 @@ Contains:
 
 ## DEEP GAIKWAD 
 
+**Aspiring Data Analyst**
+
+Excel | SQL | Python | Power BI | DAX | Power Query | Data Analysis | Data Visualization
+
+---
+
+## 📊 Project Category
+
+**Data Analytics | Business Intelligence | Power BI | Retail Analytics | Sales Analytics | Product Analysis | Data Visualization**
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star.
+
 
 
